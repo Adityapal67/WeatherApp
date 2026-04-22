@@ -32,7 +32,7 @@ Maven
 MySQL
 🔧 Setup & Run Locally
 # Clone the repository
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Adityapal67/WeatherApp.git
 
 # Navigate into the project
 cd weather-app
